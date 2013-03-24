@@ -18,7 +18,7 @@ Yields: 24 cookies
 
 ## Instructions
 
-Preheat the oven to 350°F and either lightly grease or line a baking 
+Preheat the oven to 350F and either lightly grease or line a baking 
 sheet with a silicone mat or parchment paper. 
 
 Cream together the sugar and the butter until well combined. Stir in the 
