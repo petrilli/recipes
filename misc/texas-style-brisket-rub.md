@@ -7,6 +7,8 @@ are considered the most sensitive of information. This is mine, you
 should feel free to have your own, and in-fact, I insist.
 
 My use of sugar here might be consider herasy, but so be it. I like it.
+If you want to see good instructions for the brisket itself, please
+take a look at [this web page](http://amazingribs.com/recipes/beef/texas_brisket.html).
 
 ## Ingredients
 
