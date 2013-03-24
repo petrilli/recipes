@@ -4,6 +4,7 @@
 
 * 2 1/4C AP flour
 * 1/4tsp baking soda
+* 1/8tsp salt (table, no iodine)
 * 16Tbsp butter, softened (2 sticks)
 * 1C granulated sugar
 * 1/2C light brown sugar
@@ -16,7 +17,7 @@
 
 ## Instructions
 
-Preheat oven to 350°F. Combine flour and baking soda. 
+Preheat oven to 350°F. Combine flour, baking soda and salt. 
 
 In a large bowl with an electric mixer cream butter with sugars until 
 fluffy; add vanilla and mix well. Beat in egg and cream. On low speed
