@@ -1,4 +1,4 @@
-# Raspberry, Lime and Ginger Soda
+# Blackberry, Lime and Ginger Soda
 
 ## Ingredients
 
